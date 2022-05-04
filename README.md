@@ -1,3 +1,3 @@
 
-MANRS Workshop - Egypt Operators
+IPv6 Foundations and Transitions Worshop 
 
